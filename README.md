@@ -11,3 +11,10 @@ This repository hosts all my nice TTRPG characters as they were in a book. That'
 - Each page will tell a story and the attributes of a character.
 - Should not forget to add cool animations for the pages. And cool designs too.
 
+## Tech
+
+- Vanilla JS with some type flavour.
+- Good old SCSS for the styles.
+- Semantical HTML for templating.
+- CSS Animations that really make this project cool.
+
