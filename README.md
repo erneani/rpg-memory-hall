@@ -9,6 +9,7 @@ This repository hosts all my nice TTRPG characters as they were in a book. That'
 - Create this as a side project to try some new things.
 - That's a book with many diferent styles per page.
 - Each page will tell a story and the attributes of a character.
+- Each page will have a unique style related to the RPG campaign and game.
 - Should not forget to add cool animations for the pages. And cool designs too.
 
 ## Tech
